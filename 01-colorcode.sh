@@ -10,4 +10,4 @@ echo -e "\e[34m new color \e[0m"
 
 echo -e "\e[35m new collor \e[0m"
 
-echo -e "\e[36m new color \e[0m
+echo -e "\e[36m new color \e[0m"
