@@ -1,1 +1,3 @@
 # cerulean-shell
+
+echo "hello"
