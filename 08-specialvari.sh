@@ -12,3 +12,4 @@ echo -e "\e[33mgood morning all. this color and value is $a \e[0m"
 echo $1
 echo $2
 echo $#
+echo $$
