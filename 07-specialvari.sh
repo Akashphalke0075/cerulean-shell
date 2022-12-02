@@ -12,3 +12,4 @@ echo "total session are : ${TOTAL_COUNT}"
 #printing line
 echo "total no of session are defined ${TOTAL_NO}"
 echo " heloo, value of a is ${a}"
+echo "value of c is ${c}"
