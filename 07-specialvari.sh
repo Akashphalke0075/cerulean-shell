@@ -4,6 +4,7 @@ TODAY_DATE="$(date +%F)"
 TOTAL_COUNT="$(who | wc -l)"
 a=10
 b=20
+c=1000
 
 TOTAL_NO="$(who | wc -l)"
 
