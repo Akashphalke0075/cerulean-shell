@@ -9,3 +9,5 @@ today_day="monday"
 echo "good mornong, today date is ${today_date}"
 
 echo "today day is ${today_day}"
+
+echo "LINE1\nLINE2"
