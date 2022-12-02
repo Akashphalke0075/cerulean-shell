@@ -14,5 +14,3 @@ echo -e "line1\nline2"
 
 echo -e "\e[32m i am king \e[0m" .
  #end
-
- echo "he"
