@@ -12,4 +12,5 @@ echo -e "\e[34m i am color \e[0m"
 
 echo -e "line1\nline2"
 
-echo -e "\e[32m i am king \e[0m"
+echo -e "\e[32m i am king \e[0m" .
+ #end
