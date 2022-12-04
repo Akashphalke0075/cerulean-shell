@@ -9,3 +9,8 @@ echo " heloo value of a is $a"
 TODAY_DATE="$(date +%F)"
 
 echo "heloo declaring special variables on date ${TODAY_DATE}"
+
+echo "heloo new value is $1"
+
+echo "heloo new value is $2"
+echo "heloo new value is $#"
