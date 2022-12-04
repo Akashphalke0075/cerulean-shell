@@ -14,4 +14,4 @@ echo "heloo new value is $1"
 
 echo "heloo new value is $2"
 echo "heloo new value is $#"
-echo "heloo new value is $@"
+echo "heloo new value is $$"
