@@ -16,5 +16,5 @@ echo "heloo new value is $2"
 echo "heloo new value is $#"
 echo "heloo new value is $$"
 
-read -p "my name is" : NAME
+read -p "my name is" NAME
 echo "name of executer is $NAME"
